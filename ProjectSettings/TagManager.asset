@@ -6,6 +6,10 @@ TagManager:
   tags:
   - CinemachineTarget
   - Enemy
+  - Flashlight
+  - PowerCell
+  - Powerbox
+  - Door
   layers:
   - Default
   - TransparentFX
